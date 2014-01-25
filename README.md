@@ -10,6 +10,7 @@ So I modified it to working well with twitter bootstrap 3.
 - __confirm__: confirm user's choice
 - __create__: support create custom modal template for specific purposes.
 
+[Demo link](https://dl.dropboxusercontent.com/u/15258009/Dialog-for-Angular-BootStrap3/examples/index.html)  
 You can take a look at example how to use it.   
 
 ###Below is quick guide:  
